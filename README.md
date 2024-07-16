@@ -58,6 +58,38 @@ Column Description for fact_plan_revenue:
 2. city_code: This column represents the unique code given for each city.
 3. plans: This column represents the various internet plans provided by the Atliqo company to the users.
 4. plan_revenue_crores: This column represents the revenue that Atliqo got from that respective plan on that particular month in that city_code in crores (unit of currency in India - 1Crore = 10 Million).
+
+Steps Followed:
+1. Data Loading
+
+2. Data Preprocessing & Transformation
+
+3. Data Modelling
+
+4. DAX Queries
+      Total Revenue for all periods before 5G implementation
+      Total Revenue for all periods after 5G implementation
+      ARPU of periods before 5G implementation
+      ARPU of periods after 5G implementation
+      Total active users for all periods before 5G implementation
+      Total active users for all periods after 5G implementation
+      Total unsubscribed users for all periods before 5G implementation
+      Total unsubscribed users for all periods after 5G implementation
+      Total Unsubscribed Users	
+      Monthly active users
+      Market Share %	MS %
+      Revenue Before 5G	
+      Revenue After 5G	
+      ARPU Before 5G	
+      ARPU After 5G	
+
+
+5. Data Visualzation
+
+6. Report Generation
+
+
+
 ![Screenshot_16-7-2024_23614_](https://github.com/user-attachments/assets/25ed09b2-7e88-4bf0-8c52-0514f8aa81d2)
 ![Screenshot_16-7-2024_23634_](https://github.com/user-attachments/assets/30c64b76-50c0-4987-9085-73e66e6dd845)
 ![Screenshot_16-7-2024_23652_](https://github.com/user-attachments/assets/364029a5-afde-401e-869c-bd8677e7b40c)
