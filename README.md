@@ -65,6 +65,8 @@ Steps Followed:
 2. Data Preprocessing & Transformation
 
 3. Data Modelling
+![WhatsApp Image 2024-07-16 at 1 53 30 PM](https://github.com/user-attachments/assets/f3583298-5b40-4c72-bd7f-28fd46941234)
+
 
 4. DAX Queries
 
