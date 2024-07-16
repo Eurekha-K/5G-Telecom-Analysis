@@ -67,20 +67,36 @@ Steps Followed:
 3. Data Modelling
 
 4. DAX Queries
+
+      Here Before & After 5G is taken into account on the basis of the 5G introduced month which is June .So any month less than 6 is taken as before 5G & greater than or equal to 6 is accounted as After 5G
       Total Revenue for all periods before 5G implementation
+
       Total Revenue for all periods after 5G implementation
+
       ARPU of periods before 5G implementation
+
       ARPU of periods after 5G implementation
+
       Total active users for all periods before 5G implementation
+
       Total active users for all periods after 5G implementation
+
       Total unsubscribed users for all periods before 5G implementation
+
       Total unsubscribed users for all periods after 5G implementation
+
       Total Unsubscribed Users	
+
       Monthly active users
+
       Market Share %	MS %
+
       Revenue Before 5G	
+
       Revenue After 5G	
-      ARPU Before 5G	
+
+      ARPU Before 5G
+	
       ARPU After 5G	
 
 
